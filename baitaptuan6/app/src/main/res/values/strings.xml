@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="homework">Bài tập về nhà</string>
+    <string name="add_new">Thêm mới</string>
+    <string name="task">Nhiệm vụ</string>
+    <string name="description">Mô tả</string>
+    <string name="add">Thêm</string>
+</resources>
